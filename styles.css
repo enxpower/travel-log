@@ -1,0 +1,30 @@
+:root{
+  --bg:#0f1115; --card:#161a22; --soft:#1f2430; --text:#e7eaf0; --muted:#9aa3b2; --accent:#6ea8fe; --ok:#66d9a8; --warn:#ffcc66; --bad:#ff6b6b;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:14px/1.5 ui-sans-serif,system-ui,Segoe UI,Roboto,Helvetica,Arial,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif}
+
+.site-header{position:sticky;top:0;z-index:10;background:linear-gradient(180deg,var(--bg),rgba(15,17,21,0.7));backdrop-filter:saturate(160%) blur(6px);border-bottom:1px solid #121620}
+.site-header h1{margin:0;padding:14px 18px}
+.toolbar{display:flex;flex-wrap:wrap;gap:10px;padding:10px 18px}
+.toolbar label{display:flex;align-items:center;gap:8px;background:var(--card);border:1px solid #1c2230;border-radius:12px;padding:8px 10px}
+.toolbar input,.toolbar select{background:transparent;border:none;color:var(--text);outline:none}
+.toolbar button{background:var(--soft);border:1px solid #222a38;color:var(--text);padding:8px 12px;border-radius:12px;cursor:pointer}
+.toolbar button:hover{border-color:var(--accent)}
+
+.summary{padding:8px 18px;color:var(--muted)}
+.timeline{display:flex;flex-direction:column;gap:10px;padding:10px 18px 40px}
+
+.card{background:var(--card);border:1px solid #1b2130;border-radius:16px;padding:14px 14px}
+.card .top{display:flex;align-items:center;gap:10px;margin-bottom:8px}
+.badge{font-size:12px;padding:2px 8px;border-radius:999px;border:1px solid #2b3245;background:var(--soft);color:var(--muted)}
+.title{font-weight:600}
+.sub{color:var(--muted);font-size:12px}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:8px}
+.kv{background:#121620;border:1px solid #1c2230;border-radius:12px;padding:8px}
+.kv .k{color:#8da1c0;font-size:12px}
+.kv .v{font-size:13px}
+
+.date-sep{margin-top:24px;margin-bottom:6px;color:#a8b3c7;font-weight:700}
+.site-footer{padding:16px 18px;border-top:1px solid #121620;color:var(--muted)}
+code{color:#9dd0ff}
