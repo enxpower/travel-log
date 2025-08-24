@@ -1,0 +1,36 @@
+{
+  "generated_at": "2025-08-24T08:30:27.212Z",
+  "totals": {
+    "ics": 0,
+    "jsonld": 0,
+    "heuristics": 10,
+    "kept": 8
+  },
+  "drops": [
+    {
+      "id": "19814dc7fc6dda62",
+      "stage": "ld.hotel",
+      "reason": "weak"
+    },
+    {
+      "id": "1914896bf515a353",
+      "stage": "ld.hotel",
+      "reason": "weak"
+    },
+    {
+      "id": "1912df19332e1881",
+      "stage": "ld.hotel",
+      "reason": "weak"
+    },
+    {
+      "id": "1912822e5abc9e09",
+      "stage": "ld.hotel",
+      "reason": "weak"
+    },
+    {
+      "id": "191210bd4ad46ec0",
+      "stage": "ld.hotel",
+      "reason": "weak"
+    }
+  ]
+}
