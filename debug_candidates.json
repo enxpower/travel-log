@@ -1,0 +1,276 @@
+{
+  "generated_at": "2025-08-24T06:08:07.883Z",
+  "count": 27,
+  "items": [
+    {
+      "id": "198ced5e573d6c3a",
+      "thread_id": "198ced5e573d6c3a",
+      "date": "2025-08-21T22:52:58.000Z",
+      "from": "United Airlines <Receipts@united.com>",
+      "domain": "united.com",
+      "subject": "Thanks for your purchase with United",
+      "classified_as": null,
+      "hasIcs": false
+    },
+    {
+      "id": "198c15714c66da5d",
+      "thread_id": "198c15714c66da5d",
+      "date": "2025-08-19T07:59:23.000Z",
+      "from": "United Airlines <Receipts@united.com>",
+      "domain": "united.com",
+      "subject": "eTicket Itinerary and Receipt for Confirmation ILWY0G",
+      "classified_as": "flight",
+      "hasIcs": false
+    },
+    {
+      "id": "19839bd96a76ecd0",
+      "thread_id": "19839bd96a76ecd0",
+      "date": "2025-07-24T00:03:01.000Z",
+      "from": "DoubleTree by Hilton Confirmed <noreply@h6.hilton.com>",
+      "domain": "h6.hilton.com",
+      "subject": "Your Jul-23-2025 Confirmation #96300049",
+      "classified_as": null,
+      "hasIcs": false
+    },
+    {
+      "id": "19834c82696575ec",
+      "thread_id": "19834c82696575ec",
+      "date": "2025-07-23T00:56:27.000Z",
+      "from": "DoubleTree by Hilton Confirmed <noreply@h6.hilton.com>",
+      "domain": "h6.hilton.com",
+      "subject": "Your Jul-22-2025 Confirmation #96391466",
+      "classified_as": null,
+      "hasIcs": false
+    },
+    {
+      "id": "198196fb7239941a",
+      "thread_id": "198196fb7239941a",
+      "date": "2025-07-17T17:29:55.000Z",
+      "from": "Kampgrounds of America <koa@email.koa.com>",
+      "domain": "email.koa.com",
+      "subject": "Payment Receipt",
+      "classified_as": null,
+      "hasIcs": false
+    },
+    {
+      "id": "19814dc7fc6dda62",
+      "thread_id": "19814dc7fc6dda62",
+      "date": "2025-07-16T20:10:35.000Z",
+      "from": "Kampgrounds of America <koa@email.koa.com>",
+      "domain": "email.koa.com",
+      "subject": "Spokane KOA Journey - Reservation Confirmation #20115269",
+      "classified_as": "train",
+      "hasIcs": false
+    },
+    {
+      "id": "19754d686091e32a",
+      "thread_id": "19754d686091e32a",
+      "date": "2025-06-09T13:17:09.000Z",
+      "from": "Holiday Inn Express <HolidayInnExpress@mc.ihg.com>",
+      "domain": "mc.ihg.com",
+      "subject": "Thank You for Your Stay at Holiday Inn Express Hesperia",
+      "classified_as": null,
+      "hasIcs": false
+    },
+    {
+      "id": "1973c7de2ee3028d",
+      "thread_id": "1973c7de2ee3028d",
+      "date": "2025-06-04T19:49:31.000Z",
+      "from": "Holiday Inn Express <HolidayInnExpress@tx.ihg.com>",
+      "domain": "tx.ihg.com",
+      "subject": "Your Reservation Confirmation # 23343275 at Holiday Inn Express Hotels & Resorts.",
+      "classified_as": "hotel",
+      "hasIcs": false
+    },
+    {
+      "id": "1973c527b4a73151",
+      "thread_id": "1973c527b4a73151",
+      "date": "2025-06-04T19:02:06.000Z",
+      "from": "Delta Air Lines <DeltaAirLines@t.delta.com>",
+      "domain": "t.delta.com",
+      "subject": "Your Flight Receipt - TIEJING GONG 04JUN25",
+      "classified_as": null,
+      "hasIcs": false
+    },
+    {
+      "id": "1972317cfd66366c",
+      "thread_id": "1972317cfd66366c",
+      "date": "2025-05-30T21:27:31.000Z",
+      "from": "Air Canada <notification@notification.aircanada.ca>",
+      "domain": "notification.aircanada.ca",
+      "subject": "Air Canada - 03 Jun 2025: Vancouver - Reno (Booking Reference: 2HPDIL)",
+      "classified_as": null,
+      "hasIcs": false
+    },
+    {
+      "id": "195e91f909c61415",
+      "thread_id": "195e91f909c61415",
+      "date": "2025-03-30T22:15:12.000Z",
+      "from": "Air Canada <communications@info.aircanada.com>",
+      "domain": "info.aircanada.com",
+      "subject": "Your Air Canada flight is now boarding",
+      "classified_as": null,
+      "hasIcs": false
+    },
+    {
+      "id": "195e8ed3462cab26",
+      "thread_id": "195e8ed3462cab26",
+      "date": "2025-03-30T21:20:06.000Z",
+      "from": "Air Canada <communications@info.aircanada.com>",
+      "domain": "info.aircanada.com",
+      "subject": "Flight AC549 to Vancouver is delayed further",
+      "classified_as": null,
+      "hasIcs": false
+    },
+    {
+      "id": "195e8d95b40437e9",
+      "thread_id": "195e8d95b40437e9",
+      "date": "2025-03-30T20:58:32.000Z",
+      "from": "Air Canada <communications@info.aircanada.com>",
+      "domain": "info.aircanada.com",
+      "subject": "Flight AC549 to Vancouver is delayed",
+      "classified_as": null,
+      "hasIcs": false
+    },
+    {
+      "id": "195c8b6a8e2fe0eb",
+      "thread_id": "195c8b6a8e2fe0eb",
+      "date": "2025-03-24T15:12:46.000Z",
+      "from": "Air Canada <communications@info.aircanada.com>",
+      "domain": "info.aircanada.com",
+      "subject": "Your Air Canada flight is now boarding",
+      "classified_as": null,
+      "hasIcs": false
+    },
+    {
+      "id": "195c197b8515cc0e",
+      "thread_id": "195c197b8515cc0e",
+      "date": "2025-03-23T06:01:40.000Z",
+      "from": "Sheraton Reservations <reservations@res-marriott.com>",
+      "domain": "res-marriott.com",
+      "subject": "Reservation Confirmation #75095822 for Sheraton Lincoln Harbor Hotel",
+      "classified_as": null,
+      "hasIcs": false
+    },
+    {
+      "id": "195838b7e20ae6f4",
+      "thread_id": "195838b7e20ae6f4",
+      "date": "2025-03-11T04:51:51.000Z",
+      "from": "Air Canada <confirmation@aircanada.ca>",
+      "domain": "aircanada.ca",
+      "subject": "Air Canada - 24 Mar 2025: Vancouver - New York (Booking Reference: 3UNP9J) - Your booking has been modified",
+      "classified_as": null,
+      "hasIcs": false
+    },
+    {
+      "id": "19583803f0392c69",
+      "thread_id": "19583803f0392c69",
+      "date": "2025-03-11T04:39:34.000Z",
+      "from": "Air Canada <notification@notification.aircanada.ca>",
+      "domain": "notification.aircanada.ca",
+      "subject": "Air Canada - 24 Mar 2025: Vancouver - Newark (Booking Reference: 3UNP9J)",
+      "classified_as": null,
+      "hasIcs": false
+    },
+    {
+      "id": "19503c38df7bc104",
+      "thread_id": "19503c38df7bc104",
+      "date": "2025-02-14T09:21:41.000Z",
+      "from": "Air Canada <notification@notification.aircanada.ca>",
+      "domain": "notification.aircanada.ca",
+      "subject": "Air Canada - 14 Feb 2025: San Francisco - Vancouver (Booking Reference: 2O829P)",
+      "classified_as": null,
+      "hasIcs": false
+    },
+    {
+      "id": "194f4d6a2bb35f4a",
+      "thread_id": "194f4d6a2bb35f4a",
+      "date": "2025-02-11T11:48:12.000Z",
+      "from": "United Airlines <Receipts@united.com>",
+      "domain": "united.com",
+      "subject": "eTicket Itinerary and Receipt for Confirmation IP3ZB6",
+      "classified_as": "flight",
+      "hasIcs": false
+    },
+    {
+      "id": "194f4d6a9ad37dc1",
+      "thread_id": "194f4d6a2bb35f4a",
+      "date": "2025-02-11T11:48:14.000Z",
+      "from": "United Airlines <Receipts@united.com>",
+      "domain": "united.com",
+      "subject": "eTicket Itinerary and Receipt for Confirmation IP3ZB6",
+      "classified_as": "flight",
+      "hasIcs": false
+    },
+    {
+      "id": "194f4d57161049dd",
+      "thread_id": "194f4d57161049dd",
+      "date": "2025-02-11T11:46:54.000Z",
+      "from": "United Airlines <notifications@united.com>",
+      "domain": "united.com",
+      "subject": "Your United Airlines booking confirmation – IP3ZB6",
+      "classified_as": "flight",
+      "hasIcs": false
+    },
+    {
+      "id": "194f4cdd52ff3c44",
+      "thread_id": "194f4cdd52ff3c44",
+      "date": "2025-02-11T11:38:36.000Z",
+      "from": "\"Hilton Hotels & Resorts Confirmed\" <noreply@h6.hilton.com>",
+      "domain": "h6.hilton.com",
+      "subject": "Your Feb-12-2025 Confirmation #3216458869",
+      "classified_as": null,
+      "hasIcs": false
+    },
+    {
+      "id": "1944c0fc2e023699",
+      "thread_id": "1944c0fc2e023699",
+      "date": "2025-01-09T17:14:47.000Z",
+      "from": "Air Canada <communications@info.aircanada.com>",
+      "domain": "info.aircanada.com",
+      "subject": "Welcome to your connection in Vancouver (YVR)",
+      "classified_as": null,
+      "hasIcs": false
+    },
+    {
+      "id": "193f6b199d8d80c3",
+      "thread_id": "193f6b199d8d80c3",
+      "date": "2024-12-24T03:24:13.000Z",
+      "from": "Hampton by Hilton Confirmed <noreply@h6.hilton.com>",
+      "domain": "h6.hilton.com",
+      "subject": "Your Dec-23-2024 Confirmation #91125932",
+      "classified_as": null,
+      "hasIcs": false
+    },
+    {
+      "id": "193d6ac16be93e7e",
+      "thread_id": "193d6ac16be93e7e",
+      "date": "2024-12-17T22:10:21.000Z",
+      "from": "Air Canada <confirmation@aircanada.ca>",
+      "domain": "aircanada.ca",
+      "subject": "Air Canada - 09 Jan 2025: Las Vegas - Hong Kong (Booking Reference: 4SJ6NH)",
+      "classified_as": null,
+      "hasIcs": false
+    },
+    {
+      "id": "191e2444270078fb",
+      "thread_id": "191e2444270078fb",
+      "date": "2024-09-11T18:06:48.000Z",
+      "from": "Air Canada <communications@info.aircanada.com>",
+      "domain": "info.aircanada.com",
+      "subject": "Gate change for flight AC599 to Vancouver (YVR)",
+      "classified_as": null,
+      "hasIcs": false
+    },
+    {
+      "id": "191caf4ffb492445",
+      "thread_id": "191caf4ffb492445",
+      "date": "2024-09-07T05:28:58.000Z",
+      "from": "\"Hilton Hotels & Resorts Confirmed\" <noreply@h6.hilton.com>",
+      "domain": "h6.hilton.com",
+      "subject": "Your Sep-08-2024 Confirmation #3134713212",
+      "classified_as": null,
+      "hasIcs": false
+    }
+  ]
+}
