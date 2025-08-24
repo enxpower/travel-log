@@ -1,0 +1,18 @@
+{
+  "ts": "2025-08-24T09:51:12.185Z",
+  "cursor": {
+    "startOffset": 200,
+    "threadIdx": 25,
+    "msgIdx": 1,
+    "done": false
+  },
+  "cfg": {
+    "lookbackDays": 3650,
+    "aiMaxPerRun": 40,
+    "timeBudgetMs": 330000,
+    "maxMsgsPerThread": 8
+  },
+  "extra": {
+    "phase": "start"
+  }
+}
