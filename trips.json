@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-24T05:53:49.418Z",
+  "generated_at": "2025-08-24T06:08:38.214Z",
   "timezone": "America/Vancouver",
   "items": [
     {
@@ -47,6 +47,18 @@
         "date": "2025-07-16T20:10:35.000Z"
       },
       "status": "cancelled"
+    },
+    {
+      "id": "sha256-e94f1a7ccdad9d24597bcec5b8d45a3b38e32989c48bf21f41a14d2dd1712733",
+      "type": "hotel",
+      "vendor": "Your Reservation Confirmation # 23343275 at Holiday Inn Express Hotels & Resorts.",
+      "address": "&zwnj;9750 KeyPointe Ave,&zwnj;",
+      "raw": {
+        "message_id": "1973c7de2ee3028d",
+        "thread_id": "1973c7de2ee3028d",
+        "date": "2025-06-04T19:49:31.000Z"
+      },
+      "status": "confirmed"
     },
     {
       "id": "sha256-9fcfb297f5195f9ff6327614736402b5e9032a7fd7e870ce0ed601f729c9ad06",
