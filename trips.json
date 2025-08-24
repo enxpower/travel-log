@@ -1,0 +1,262 @@
+{
+  "generated_at": "2025-08-24T03:37:22.014Z",
+  "timezone": "America/Vancouver",
+  "items": [
+    {
+      "id": "sha256-00a9260d204f1497aa5dd578825cbc184271cfc3951655549db432c6786031a0",
+      "type": "flight",
+      "origin": {
+        "code": "NTS"
+      },
+      "destination": {
+        "code": "RSR"
+      },
+      "carrier": "DS",
+      "number": "160",
+      "amount": {
+        "value": 105,
+        "currency": "USD"
+      },
+      "raw": {
+        "message_id": "198d0df92f5300c4",
+        "thread_id": "198d0df92f5300c4",
+        "date": "2025-08-22T08:22:49.000Z"
+      },
+      "status": "changed"
+    },
+    {
+      "id": "sha256-fb544a356e696d04842d685b46d9da06516582509c8f8717a62ebb844819e426",
+      "type": "flight",
+      "end": "2045-01-01T08:00:00.000Z",
+      "origin": {
+        "code": "YVR"
+      },
+      "destination": {
+        "code": "SFO"
+      },
+      "carrier": "UA",
+      "number": "2064",
+      "passengers": [
+        "*7.70 *"
+      ],
+      "amount": {
+        "value": 0,
+        "currency": "CAD"
+      },
+      "raw": {
+        "message_id": "198c15714c66da5d",
+        "thread_id": "198c15714c66da5d",
+        "date": "2025-08-19T07:59:23.000Z"
+      },
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-18864164c78f5d691a4fe7ac0fda219db50b8ed9e0344b85fe44fc637f28c4db",
+      "type": "train",
+      "carrier": "Train",
+      "origin": {
+        "name": "Navy jets from the Naval Air Station Whidbey Island"
+      },
+      "destination": {
+        "name": "Date Site Type Qty Unit Description Each Total"
+      },
+      "amount": {
+        "value": 3.72,
+        "currency": "USD"
+      },
+      "raw": {
+        "message_id": "198bfb36d0491752",
+        "thread_id": "198bfb36d0491752",
+        "date": "2025-08-19T00:21:02.000Z"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-4aed6bce9f22b10098bc92b5fac3cc9fc3d239a95276a455a6d2f3de63bae792",
+      "type": "rental",
+      "vendor": "Ce message et toute pièce jointe sont destinés au destinataire uniquement et peuvent comporter de l’information privilégiée et confidentielle. Si le lecteur de ce message n’est pas le destinataire prévu ou un représentant autorisé du destinataire prévu, vous êtes par la présente avisé qu’il est strictement interdit de diffuser le contenu de cette communication. Si vous avez reçu ce message par erreur, veuillez en aviser l’expéditeur immédiatement en répondant au courriel, puis supprimer le message et toute pièce jointe de votre système.",
+      "raw": {
+        "message_id": "19886c3a1e56d017",
+        "thread_id": "19886c3a1e56d017",
+        "date": "2025-08-07T23:00:23.000Z"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-61363a4d00d5ec09088afcb0f2d22dac180e8706391ca01bcde98b576c5e3329",
+      "type": "flight",
+      "end": "2025-07-29T07:00:00.000Z",
+      "origin": {
+        "code": "REA"
+      },
+      "destination": {
+        "code": "CHE"
+      },
+      "amount": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "raw": {
+        "message_id": "1985451d468f075e",
+        "thread_id": "1985451d468f075e",
+        "date": "2025-07-29T03:55:05.000Z"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-fcbd9e6f6d7b3ce38f6ae1f2e711c5bb5b5a4f61e654aa4d6a036ad7baff9dbd",
+      "type": "restaurant",
+      "vendor": "Golden Bear RV Park Reservation Policies",
+      "raw": {
+        "message_id": "19849fa370361d12",
+        "thread_id": "19849fa370361d12",
+        "date": "2025-07-27T03:43:10.000Z"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-0bf30fd3ff7c2de70bf8c5ffe4e7701586ab44aa73232c5ce3fdfbb49c9d17af",
+      "type": "hotel",
+      "amount": {
+        "value": 74.9,
+        "currency": "USD"
+      },
+      "raw": {
+        "message_id": "19849fa3356d02e0",
+        "thread_id": "19849fa3356d02e0",
+        "date": "2025-07-27T03:43:09.000Z"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-6a6124209179e5cf3f15d39bb614cae5611cd62ee5911d52f6e8477454ddd886",
+      "type": "flight",
+      "origin": {
+        "code": "KED"
+      },
+      "destination": {
+        "code": "TIE"
+      },
+      "raw": {
+        "message_id": "19839bd96a76ecd0",
+        "thread_id": "19839bd96a76ecd0",
+        "date": "2025-07-24T00:03:01.000Z"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-9fec333d51cefca65486b2a1a0127503ecaf5db146ad6f892e3947b1cd179dc0",
+      "type": "flight",
+      "origin": {
+        "code": "ADD"
+      },
+      "destination": {
+        "code": "TIE"
+      },
+      "raw": {
+        "message_id": "19834c82696575ec",
+        "thread_id": "19834c82696575ec",
+        "date": "2025-07-23T00:56:27.000Z"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-630e0670714be13e3cf4d12b93b3b616221cbda4e77e46de1a8ff7819b11bfaa",
+      "type": "campsite",
+      "vendor": "[image: Kampgrounds of America] <https://koa.com/>[image: LOGIN]",
+      "site_no": "Number",
+      "raw": {
+        "message_id": "198196fb7239941a",
+        "thread_id": "198196fb7239941a",
+        "date": "2025-07-17T17:29:55.000Z"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-e8c078482aab02e40ec86980429daf3f9cdf67a1b51c190e83b3afae9acfce23",
+      "type": "event",
+      "vendor": "Event",
+      "title": "that the credit is redeemed, after the ",
+      "amount": {
+        "value": 33.25,
+        "currency": "USD"
+      },
+      "raw": {
+        "message_id": "197ad67d1420149c",
+        "thread_id": "197ad67d1420149c",
+        "date": "2025-06-26T18:02:24.000Z"
+      },
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-bf1e1d7955c89e091499cc8f9f47ee35816f9ed9f2426d79869be71f68d74395",
+      "type": "flight",
+      "start": "2025-06-28T22:00:00.000Z",
+      "end": "2025-06-28T22:00:00.000Z",
+      "origin": {
+        "code": "GOO"
+      },
+      "destination": {
+        "code": "TAX"
+      },
+      "amount": {
+        "value": 2.79,
+        "currency": "USD"
+      },
+      "raw": {
+        "message_id": "197b79bc77aa2eb7",
+        "thread_id": "197b79bc77aa2eb7",
+        "date": "2025-06-28T17:35:28.000Z"
+      },
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-867b06eae2157fba009a442760b24280d8ac663c58eb65becff70441ad1e33b6",
+      "type": "hotel",
+      "start": "2025-07-16T07:00:00.000Z",
+      "end": "2025-07-17T07:00:00.000Z",
+      "amount": {
+        "value": 77.77,
+        "currency": "USD"
+      },
+      "raw": {
+        "message_id": "19814dc7fc6dda62",
+        "thread_id": "19814dc7fc6dda62",
+        "date": "2025-07-16T20:10:35.000Z"
+      },
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-0bbf8e2a9b827fea705a1ba658e7dad971b7e80efd1378357382378cc2506f24",
+      "type": "restaurant",
+      "start": "2025-08-10T22:00:00.000Z",
+      "vendor": "Your reservation at HaiDiLao HotPot Richmond is confirmed",
+      "raw": {
+        "message_id": "19895d5cabc2dd5e",
+        "thread_id": "19895d5cabc2dd5e",
+        "date": "2025-08-10T21:14:32.000Z"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-1910a9205698f3990290b45bdea99c1b534fcdf8890b14ff5256fac12cc7f7a7",
+      "type": "flight",
+      "start": "2025-08-21T22:00:00.000Z",
+      "end": "2025-08-21T22:00:00.000Z",
+      "origin": {
+        "code": "YVR"
+      },
+      "destination": {
+        "code": "SFO"
+      },
+      "carrier": "UA",
+      "number": "877",
+      "raw": {
+        "message_id": "198ced5e573d6c3a",
+        "thread_id": "198ced5e573d6c3a",
+        "date": "2025-08-21T22:52:58.000Z"
+      },
+      "status": "confirmed"
+    }
+  ]
+}
