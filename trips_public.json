@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-24T03:37:22.016Z",
+  "generated_at": "2025-08-24T05:19:59.563Z",
   "timezone": "America/Vancouver",
   "items": [
     {
@@ -134,6 +134,1621 @@
       "status": "cancelled"
     },
     {
+      "id": "sha256-689d0497581b07ff85ea0a6545b534cf235afc34f6b35c61923d0a1fefb77b5c",
+      "type": "flight",
+      "end": "3926-01-01T08:00:00.000Z",
+      "origin": {
+        "code": "HTT"
+      },
+      "destination": {
+        "code": "HTT"
+      },
+      "carrier": "DL",
+      "number": "3926",
+      "passengers": [
+        "I**",
+        "y**",
+        "o**",
+        "y**"
+      ],
+      "amount": {
+        "value": 198.31,
+        "currency": "USD"
+      },
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-a016114fb6ccc9c6e7f755298d145bfa2505fffd533b6a89cd621627db885bcc",
+      "type": "ferry",
+      "vendor": "Ferry",
+      "origin": {
+        "name": "*"
+      },
+      "destination": {
+        "name": "*"
+      },
+      "amount": {
+        "value": 56,
+        "currency": "USD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-34136d8858f867593e1851906ec1ffee1d41d6a4044a0ae50082cee6bf3b9127",
+      "type": "campsite",
+      "vendor": "CampFee-35*",
+      "hookups": "Electric",
+      "amount": {
+        "value": 49.3,
+        "currency": "USD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-b5669ee454f0a0cb9ee1460fbdac65f2c3edfc086d387118e1e523a8b9b4b8cb",
+      "type": "flight",
+      "end": "2045-01-01T08:00:00.000Z",
+      "origin": {
+        "code": "PEK"
+      },
+      "destination": {
+        "code": "SFO"
+      },
+      "carrier": "UA",
+      "number": "889",
+      "passengers": [
+        "***"
+      ],
+      "amount": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-5d66449be0c1b6af9598469c7e523a94bfa4f685aec412039ab767ebbb3f6e1a",
+      "type": "flight",
+      "destination": {
+        "code": "ABK"
+      },
+      "status": "changed"
+    },
+    {
+      "id": "sha256-63b6104021bb3ff3151b640ace94994e32dda3e6aad328a0bdb4e033c4c51ab8",
+      "type": "flight",
+      "origin": {
+        "code": "TAR"
+      },
+      "destination": {
+        "code": "HTT"
+      },
+      "carrier": "ET",
+      "number": "05",
+      "amount": {
+        "value": 44,
+        "currency": "CAD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-e0957726c1b6e235f4ba3a3c2e050f96be411fb0d97dc7828a1e0d1f2b238983",
+      "type": "hotel",
+      "vendor": "CORRECTION: Your July Hilton Honors Monthly Statement",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-5f9f53047c156c56faf7a3604a70010053a83f717db0b9362edecfa2c4a63660",
+      "type": "hotel",
+      "vendor": "We hope you enjoyed your stay at the DOUBLETREE HOTEL SACRAMENTO - come again soon!",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-e9659f908bb2313243a48522c4156aafafaf2834e4a4c0b24acc4265479d16a1",
+      "type": "rideshare",
+      "vendor": "Uber",
+      "amount": {
+        "value": 11.48,
+        "currency": "USD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-946e35e188b4c8b3a18d41528c610c1346fc6550fa8fa38cd0e2554b6204271a",
+      "type": "hotel",
+      "vendor": "Your Hilton Honors Points have been redeemed",
+      "amount": {
+        "value": 6,
+        "currency": "CAD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-82140e8f2a40e2122365b46f8897b9be98dbee6269e63e47170e5a7613ee8eb4",
+      "type": "hotel",
+      "vendor": "Your July Hilton Honors Monthly Statement",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-7958a2def2fc9d1dc10e22b883f38d27e6c8729ada222c275ff39d873f42dde3",
+      "type": "campsite",
+      "vendor": "KOA",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-42831622cba03598115070592cfa4a1bd2ae1186b794698dfe97fe07f28129bb",
+      "type": "flight",
+      "destination": {
+        "code": "PRE"
+      },
+      "carrier": "ET",
+      "number": "01",
+      "amount": {
+        "value": 9,
+        "currency": "CAD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-81dce68e20e70f8590a9031e943ce40ef801b441fc60c2291a8e3d91fc55e7a0",
+      "type": "flight",
+      "origin": {
+        "code": "LLC"
+      },
+      "destination": {
+        "code": "HTT"
+      },
+      "carrier": "ET",
+      "number": "04",
+      "amount": {
+        "value": 3183597,
+        "currency": "CAD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-9b6f9443f838807f5e4fa692eb061844d1b8b1e26bcfbe6e07326dfacb32f74a",
+      "type": "flight",
+      "origin": {
+        "code": "SFO"
+      },
+      "destination": {
+        "code": "BOA"
+      },
+      "carrier": "AC",
+      "number": "562",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-9a58887e61cc0e662e65473057716b7af164213c443debbfbdf40a32ca53e092",
+      "type": "flight",
+      "origin": {
+        "code": "YVR"
+      },
+      "destination": {
+        "code": "BOA"
+      },
+      "carrier": "AC",
+      "number": "573",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-074e2bf633796f7a4611d9e88646f0366c54ec170e6ea5c127da2d4471582c2d",
+      "type": "flight",
+      "origin": {
+        "code": "UNI"
+      },
+      "destination": {
+        "code": "SAV"
+      },
+      "carrier": "AC",
+      "number": "573",
+      "passengers": [
+        "***"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-e1671b459246c511a8e6cab6ab3092729d975be9af53667bb319e240780e1bf3",
+      "type": "flight",
+      "origin": {
+        "code": "VER"
+      },
+      "destination": {
+        "code": "VER"
+      },
+      "carrier": "AC",
+      "number": "573",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-b6839bca170b4fd3a8cefb23a7543aec191853ce3338e40e52fcec588499638c",
+      "type": "flight",
+      "origin": {
+        "code": "SFO"
+      },
+      "destination": {
+        "code": "SAV"
+      },
+      "carrier": "AC",
+      "number": "562",
+      "passengers": [
+        "***"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-bf94fa212c166aaef5c164dfa71d44bb68a648ea910922d40cb3e77fe2be700e",
+      "type": "flight",
+      "origin": {
+        "code": "USA"
+      },
+      "destination": {
+        "code": "PRE"
+      },
+      "carrier": "ET",
+      "number": "01",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-8631e67b97c0a073a3bb66b5becf2ae595def622f9c779323e485e4603f5f8ac",
+      "type": "flight",
+      "origin": {
+        "code": "YVR"
+      },
+      "destination": {
+        "code": "BOA"
+      },
+      "carrier": "AC",
+      "number": "561",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-240aaaf27a84aed838359f1d77abf448af1183c2ab0524b8ef765f1e7618c2d1",
+      "type": "flight",
+      "origin": {
+        "code": "UNI"
+      },
+      "destination": {
+        "code": "SAV"
+      },
+      "carrier": "AC",
+      "number": "561",
+      "passengers": [
+        "***"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-db288d3e339e484f5844fedb06bf07330cdc35d5dac293506b33c32422d861d1",
+      "type": "flight",
+      "destination": {
+        "code": "QBP"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-81af139ffce4605481dc9ae14213f52455f67e5dcd7d15f08419693749b7d792",
+      "type": "flight",
+      "destination": {
+        "code": "UNI"
+      },
+      "carrier": "ET",
+      "number": "01",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-7a1e5c4ce2d423a2315c52c9ca42cc42fe4e921a3d4ecf7b833c3ebf2443f2a1",
+      "type": "flight",
+      "origin": {
+        "code": "USA"
+      },
+      "destination": {
+        "code": "UNI"
+      },
+      "carrier": "ET",
+      "number": "01",
+      "amount": {
+        "value": 5,
+        "currency": "CAD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-1bf3dfa40a9a446003a2e212842626c0c425abea7e95f6eca5ec4abd64907319",
+      "type": "flight",
+      "origin": {
+        "code": "YVR"
+      },
+      "destination": {
+        "code": "BOA"
+      },
+      "carrier": "AC",
+      "number": "549",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-0d38c0d8eac9f9c402a1b1d604d878f6af9006646c242f9f663a7e5199ad02a6",
+      "type": "flight",
+      "origin": {
+        "code": "IME"
+      },
+      "destination": {
+        "code": "HER"
+      },
+      "carrier": "AC",
+      "number": "549",
+      "status": "changed"
+    },
+    {
+      "id": "sha256-558223b368f39a6a9f12252c20ff3c3698c61d5eb2de4239ffbdb4b44995adf5",
+      "type": "flight",
+      "origin": {
+        "code": "IME"
+      },
+      "destination": {
+        "code": "YED"
+      },
+      "carrier": "AC",
+      "number": "549",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-d4a77c4e11e42e76456ade65aceb138710a9bf7b8684077a075f6fde54e004c6",
+      "type": "hotel",
+      "vendor": "Thank you for choosing our hotel for your recent stay. If you have any",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-ace466de6e251933fcb68866fc4877f108cdf14728319d9e4ca3aad18b811693",
+      "type": "flight",
+      "origin": {
+        "code": "YVR"
+      },
+      "destination": {
+        "code": "SAV"
+      },
+      "carrier": "AC",
+      "number": "549",
+      "passengers": [
+        "***",
+        "S**",
+        "Y**"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-0174ca3e733f64849f8b713953e7e0ef89a15506e731773823918ce3e6de567f",
+      "type": "flight",
+      "origin": {
+        "code": "EWR"
+      },
+      "destination": {
+        "code": "BOA"
+      },
+      "carrier": "AC",
+      "number": "548",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-f3d39b95cbdcbeea93112edc41b985f31f46479d12bafadb197e0808287293f9",
+      "type": "flight",
+      "origin": {
+        "code": "USE"
+      },
+      "destination": {
+        "code": "WEB"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-de8f63b598e53a17edfcc3d061cb991f4d550159fddede575f6a456f1b7fc795",
+      "type": "flight",
+      "origin": {
+        "code": "EWR"
+      },
+      "destination": {
+        "code": "SAV"
+      },
+      "carrier": "AC",
+      "number": "548",
+      "passengers": [
+        "***",
+        "S**",
+        "Y**"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-6dcfacf460b9ab2f0ca01317982fdb0af05770ec20b29e5ac5283ebdd188fa26",
+      "type": "flight",
+      "destination": {
+        "code": "JOI"
+      },
+      "carrier": "ET",
+      "number": "10",
+      "amount": {
+        "value": 32783,
+        "currency": "CAD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-d3cbd8c2084339cc3c77af83f503a8c7219395b8c91722098b337a8335799c2a",
+      "type": "flight",
+      "origin": {
+        "code": "HTT"
+      },
+      "destination": {
+        "code": "HTT"
+      },
+      "carrier": "ET",
+      "number": "01",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-0727d16ef1b7699c55690db8cdcd1372a30e337fa7f47656371a1d19817245fb",
+      "type": "flight",
+      "origin": {
+        "code": "OTH"
+      },
+      "destination": {
+        "code": "HEA"
+      },
+      "status": "changed"
+    },
+    {
+      "id": "sha256-e66e40035a58a7586c3ffc82675acdac6eb53af7e14e2482203bd9a73d983a4e",
+      "type": "rental",
+      "vendor": "SIXT",
+      "vehicle": "with the label Airport Special",
+      "amount": {
+        "value": 15,
+        "currency": "CAD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-8bc84b08ffc8a2481db82d8064f6256bc2695ad7f4547d92151b8e4572e2b1db",
+      "type": "flight",
+      "origin": {
+        "code": "NOW"
+      },
+      "destination": {
+        "code": "SIX"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-a97938300e930bd8e58b61c6618ff34d52fcf8faaa4ad202d9524a78ead37337",
+      "type": "flight",
+      "origin": {
+        "code": "YVR"
+      },
+      "destination": {
+        "code": "BOA"
+      },
+      "carrier": "AC",
+      "number": "571",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-2c954b6793ffbc796eaa936b5cf553e719080b922d2562c65157206bbe577475",
+      "type": "flight",
+      "origin": {
+        "code": "YOU"
+      },
+      "destination": {
+        "code": "WEB"
+      },
+      "carrier": "AC",
+      "number": "571",
+      "status": "changed"
+    },
+    {
+      "id": "sha256-dd296e87ea9628a798377609147c9f779c0f04da6fa8ec34745dacb2836e7d9f",
+      "type": "hotel",
+      "vendor": "We hope you enjoyed your stay at the HILTON BEIJING CAPITAL AIRPORT - come again soon!",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-4934f6247f4f10137d1e0d7c650ad506cb5b45b7dc899aaff53731b902c35d78",
+      "type": "flight",
+      "destination": {
+        "code": "YOU"
+      },
+      "amount": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "status": "changed"
+    },
+    {
+      "id": "sha256-0b7453a747f7e861803bce6df098f46479273544db08629ae33dde55d17d191b",
+      "type": "hotel",
+      "vendor": "HiltonHilton Hotels & Resorts ConfirmedHi",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-564b248d3031fae714e5409f4dc45fc3e24a9dc8e9b50778e1c288fd5cd6d384",
+      "type": "hotel",
+      "vendor": "Start your stay the easy, breezy way with the Hilton Honors app.",
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-6ac9a1fdb1b4f2a408f510eb59dd3080d1977a0c1999c1f0288659a2ace8e227",
+      "type": "rental",
+      "vendor": "Pack your skis, we’ve got your ride—SIXT Winter Deals",
+      "vehicle": "with the label Frosty Deal",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-096a4bd91be2a93f4467285791284eb94f41218198189672464031c23ab12058",
+      "type": "campsite",
+      "vendor": "Email from Red Bluff KOA Journey   Plan Your Getaway with our $25 Deposit Deal We’ve always believed camping is good for the soul. Now, more than ever, we invite you to plan your next adventure with us. Book now and we’ll hold your space for only a $25 deposit. We can’t wait to see you out there!   Secure Site       CALL US: 530-527-5300 | VISIT OUR WEBSITE Terms and Conditions:  Based on availability. Minimum length of stay rules may apply. Excludes reservations 28 nights or more. Not valid toward existing reservations. Offer valid toward 2025 reservations only. Offer valid with other discounts including KOA Rewards. Reservation must be made between January 15 - February 28, 2025. Reservations made with $25 deposit offer are subject to a $20 cancellation fee if not cancelled within the cancellation window. Please check the cancellation policy of the campground. Red Bluff KOA Journey | 100 Lake Avenue | Red Bluff, CA 96080 US Unsubscribe | Update Profile | Constant Contact Data Notice",
+      "site_no": "CALL",
+      "amount": {
+        "value": 25,
+        "currency": "USD"
+      },
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-7e6cac6134ea65a7fd103b0941de70f9bbe3f8bb24a56ab9052a8061b4c15575",
+      "type": "campsite",
+      "vendor": "Secure your 2025 camping trip for just $25 down",
+      "site_no": "Terms",
+      "amount": {
+        "value": 25,
+        "currency": "USD"
+      },
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-8facfcb788629d8accf8c17e53b128a327d0bc479916f2290f913390a78cdcbe",
+      "type": "flight",
+      "origin": {
+        "code": "ATE"
+      },
+      "destination": {
+        "code": "WEB"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-2e576a60fff5b4ab2d734fe8bd63dd404aea7a154fdcd29df0776ca024ea9ad2",
+      "type": "flight",
+      "origin": {
+        "code": "YVR"
+      },
+      "destination": {
+        "code": "BOA"
+      },
+      "carrier": "AC",
+      "number": "1059",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-92c0c5bb6ba4d625858218e3e677847d1e0394f5dc9ef20d4d728c6fb00f6d01",
+      "type": "flight",
+      "origin": {
+        "code": "HKG"
+      },
+      "destination": {
+        "code": "SAV"
+      },
+      "carrier": "AC",
+      "number": "1059",
+      "passengers": [
+        "***"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-cb85c3685397ca0f323db0aca5a0913940f31b7071e8a30d55238aad067140d7",
+      "type": "flight",
+      "origin": {
+        "code": "SNA"
+      },
+      "destination": {
+        "code": "BOA"
+      },
+      "carrier": "AC",
+      "number": "598",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-2426b150b11ab8454716ca9aa790e33a9d03bdddd5cb670d2c2c35942a047f0d",
+      "type": "flight",
+      "origin": {
+        "code": "AND"
+      },
+      "destination": {
+        "code": "CHE"
+      },
+      "carrier": "AC",
+      "number": "598",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-8caf47ff33fbd625f30b75fab522ffb1b0fa5e2560b29c4a292632c77a72a96e",
+      "type": "flight",
+      "origin": {
+        "code": "SNA"
+      },
+      "destination": {
+        "code": "SAV"
+      },
+      "carrier": "AC",
+      "number": "598",
+      "passengers": [
+        "***"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-a0452c6c4ffe2c3915d2c10a1f7e26bf4857a3316d7f72861dddc029827a3d68",
+      "type": "flight",
+      "origin": {
+        "code": "YVR"
+      },
+      "destination": {
+        "code": "BOO"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-7d942fff6679e6f8b48b59f79d4ec1b73a9ec3d64aacc116a9224b801c6384e0",
+      "type": "hotel",
+      "vendor": "TIEJING, you have successfully updated your phone number on your Hilton Honors account",
+      "status": "changed"
+    },
+    {
+      "id": "sha256-1fbbe73f48db72256dec538a768d3a9b1964becc8042469bf61b32440f0dc6ba",
+      "type": "hotel",
+      "vendor": "TIEJING, you have successfully updated your address on your Hilton Honors account",
+      "status": "changed"
+    },
+    {
+      "id": "sha256-6287ce65bb93c21fe6652129c7e8c7eb10c085d73ca938106580af1de314a9b5",
+      "type": "hotel",
+      "vendor": "We hope you enjoyed your stay at the Hampton Inn - Bellingham Airport, WA - come again soon!",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-ae0e35ba6827c0e0669026ee900484bae507720ed89115c46b40a71f8dfc23b6",
+      "type": "hotel",
+      "vendor": "Hampton by Hilton ConfirmedSee you soon,Tiejing",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-666d6df76bd4e9ead91701a889fce053595dcad5290610b6700bc898a0a5fb25",
+      "type": "flight",
+      "origin": {
+        "code": "NYC"
+      },
+      "destination": {
+        "code": "PRE"
+      },
+      "carrier": "ET",
+      "number": "01",
+      "amount": {
+        "value": 306,
+        "currency": "CAD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-fd305b9fa4570f6498fc6b4be130fac67aea77816b5468640518e3e0210da8d4",
+      "type": "flight",
+      "origin": {
+        "code": "ENH"
+      },
+      "destination": {
+        "code": "ITA"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-743a3a019f7869641da5140635a0964d511db689222aec22056af372153d7ed7",
+      "type": "flight",
+      "origin": {
+        "code": "SKY"
+      },
+      "destination": {
+        "code": "MIN"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-ee9b779efd57958cc2efe619f2e08e16302b9715b03dec4c003264fe8c1e0be4",
+      "type": "flight",
+      "origin": {
+        "code": "IBE"
+      },
+      "destination": {
+        "code": "NOW"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-ed74bf7bd55843f72ba0ce4856da01703d2fe30921e76b5562d175f8d019bfac",
+      "type": "campsite",
+      "vendor": "Email from Red Bluff KOA Journey 20% Off Ends Soon ⏳   Enjoy 20% OFF Your Stay! It's the final hours of our Holiday Deal! ﻿ Stay with us from November 22, 2024 to June 15, 2025  and save 20%. PLUS, you can score additional savings as a KOA Rewards Guest. Book before the clock strikes midnight on December 8th! Save Now       Terms & Conditions: May be combined with KOA Rewards. Not valid for existing reservations or stays 28 nights or longer. Valid for stays only at Red Bluff KOA Journey. Reservation required. Based on Availability.               Red Bluff KOA Journey | 100 Lake Avenue | Red Bluff, CA 96080 US Unsubscribe | Update Profile | Constant Contact Data Notice",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-156369139eb9c515f607a97465c717dfcf4e98f2e0c6c3e788910a8c9c34e0ed",
+      "type": "campsite",
+      "vendor": "Give the Gift of Camping!",
+      "site_no": "s",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-b92476a10d9b42848c5b3b6be2fe497921e1b238bcdc4e02c918574620bdb3ce",
+      "type": "flight",
+      "origin": {
+        "code": "USA"
+      },
+      "destination": {
+        "code": "PLA"
+      },
+      "carrier": "ET",
+      "number": "01",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-4ae948e68a6ecd814f77f9bb9f9a357617d67d72c55655e3df2f49ba73e2db53",
+      "type": "flight",
+      "origin": {
+        "code": "LLC"
+      },
+      "destination": {
+        "code": "TAK"
+      },
+      "carrier": "ET",
+      "number": "04",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-49b1baebcea0bfbb4615841df59710d0a7856348b17d5228a8e1e9cd802c0dbe",
+      "type": "flight",
+      "origin": {
+        "code": "UNL"
+      },
+      "destination": {
+        "code": "ITA"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-cee098a4c9fae023baf55bc2b0e873a2ab24a7846044758eb0c76d2029e7128a",
+      "type": "hotel",
+      "vendor": "Thank you for your recent stay on 08-09-2024 at Hilton Orange County Costa Mesa",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-907c28f8eddc4b12c6a2cc660d74f1005334d32592efd827dfe9d3951ba6ff72",
+      "type": "flight",
+      "origin": {
+        "code": "YVR"
+      },
+      "destination": {
+        "code": "BOA"
+      },
+      "carrier": "AC",
+      "number": "599",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-aaf2e7f640aba25e388a3ab2071d9a0b5490df1cbc09b263d6ee69d7999a407c",
+      "type": "hotel",
+      "vendor": "We hope you enjoyed your stay at the HILTON ORANGE COUNTY/COSTA MESA - come again soon!",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-23d810d086966c4edc509e49799011f82a19770374b49ac9a0d8307882cd0be0",
+      "type": "flight",
+      "origin": {
+        "code": "NEW"
+      },
+      "destination": {
+        "code": "NEW"
+      },
+      "carrier": "AC",
+      "number": "599",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-9d6fdd78073635f9a9c0b6d3961aa6165977d495f68f461db6681bdbdf0e3d22",
+      "type": "flight",
+      "origin": {
+        "code": "YOU"
+      },
+      "destination": {
+        "code": "WEB"
+      },
+      "carrier": "AC",
+      "number": "599",
+      "status": "changed"
+    },
+    {
+      "id": "sha256-b9908aeb4bcf00c4cafe572880a97bd00643476eac25b61e79359cb2469789fc",
+      "type": "flight",
+      "origin": {
+        "code": "YVR"
+      },
+      "destination": {
+        "code": "SAV"
+      },
+      "carrier": "AC",
+      "number": "599",
+      "passengers": [
+        "***"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-1468aea2b9bcbf4e568c9e37b5f943ecf335a7a917e94fdca1295c39335052ec",
+      "type": "hotel",
+      "vendor": "all from your phone with the Hilton Honors app. It's the easiest,",
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-63f9c2a6e369f4b1c71d2ccf93f4fdd0305758e03f527462a085a6f5d9e14031",
+      "type": "hotel",
+      "vendor": "Hilton Hotels & Resorts ConfirmedSee",
+      "amount": {
+        "value": 9,
+        "currency": "USD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-f5ad997bf9e08507bfc4b7ba1dc045495a9b19e6fc0cba2a1232592d68f4ce58",
+      "type": "flight",
+      "start": "2024-09-16T22:00:00.000Z",
+      "end": "2024-09-16T22:00:00.000Z",
+      "origin": {
+        "code": "HTT"
+      },
+      "destination": {
+        "code": "HTT"
+      },
+      "carrier": "ET",
+      "number": "01",
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-335f371c5cd40ed942e9b7896aaa036c28aeab73e94523864b67bc95f988de92",
+      "type": "flight",
+      "start": "2024-10-19T22:00:00.000Z",
+      "end": "2024-10-19T22:00:00.000Z",
+      "origin": {
+        "code": "YOU"
+      },
+      "destination": {
+        "code": "ESS"
+      },
+      "amount": {
+        "value": 14.99,
+        "currency": "USD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-bcb952ca6645a7ebdf42db4de1840c945a82d54af35cb85abd5a8bd8f76af84e",
+      "type": "flight",
+      "start": "2024-10-21T22:00:00.000Z",
+      "end": "2024-10-21T22:00:00.000Z",
+      "origin": {
+        "code": "HTT"
+      },
+      "destination": {
+        "code": "UNI"
+      },
+      "carrier": "ET",
+      "number": "02",
+      "amount": {
+        "value": 7,
+        "currency": "CAD"
+      },
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-3f05365247b2061c7ae8ef6595c2e57768fca724c180d566b76dd191a0025187",
+      "type": "flight",
+      "start": "2024-10-31T22:00:00.000Z",
+      "end": "2024-10-31T22:00:00.000Z",
+      "origin": {
+        "code": "LES"
+      },
+      "destination": {
+        "code": "UNI"
+      },
+      "carrier": "ET",
+      "number": "04",
+      "amount": {
+        "value": 504,
+        "currency": "CAD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-e54c0c1a1fed00669eff945a11fd4ab69fc14df98d91a2cda2e2888773807922",
+      "type": "flight",
+      "start": "2024-11-18T23:00:00.000Z",
+      "end": "2024-11-18T23:00:00.000Z",
+      "origin": {
+        "code": "HTT"
+      },
+      "destination": {
+        "code": "CHO"
+      },
+      "carrier": "ET",
+      "number": "02",
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-5f387d9302f4509042376dc5ffad9a29c80ae76c2b2813aeedfc5d5931a5c7eb",
+      "type": "flight",
+      "start": "2024-11-22T23:00:00.000Z",
+      "end": "2024-11-22T23:00:00.000Z",
+      "origin": {
+        "code": "YOU"
+      },
+      "destination": {
+        "code": "IUM"
+      },
+      "amount": {
+        "value": 4.99,
+        "currency": "USD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-63bb548623f22a24c3944ce4fc5c93330a2be895b82d8851d1af40de5041ed07",
+      "type": "flight",
+      "start": "2024-11-24T23:00:00.000Z",
+      "end": "2024-11-24T23:00:00.000Z",
+      "origin": {
+        "code": "HAN"
+      },
+      "destination": {
+        "code": "SIX"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-7c08561d5441170431b651663b34de7f124031359ecc17a383b0ac8e79bf3742",
+      "type": "flight",
+      "start": "2024-12-01T23:00:00.000Z",
+      "end": "2024-12-01T23:00:00.000Z",
+      "origin": {
+        "code": "YOU"
+      },
+      "destination": {
+        "code": "ASE"
+      },
+      "amount": {
+        "value": 1.99,
+        "currency": "USD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-1f4469738399270c755231d207f8e06d32707ae4bda30d394c8ccc896507f644",
+      "type": "flight",
+      "start": "2024-12-01T23:00:00.000Z",
+      "end": "2024-12-01T23:00:00.000Z",
+      "origin": {
+        "code": "HTT"
+      },
+      "destination": {
+        "code": "SIX"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-5a3b29e82dc5b3f7401e31638529e7e2e8c0aa1be7ddb2d197f17d6b0015e9f4",
+      "type": "flight",
+      "start": "2024-12-01T23:00:00.000Z",
+      "end": "2024-12-01T23:00:00.000Z",
+      "origin": {
+        "code": "HAN"
+      },
+      "destination": {
+        "code": "SIX"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-7f9d4707a6c6d6a7f24f16c666a90a1b80ad3951748eb9aa6eb984951d80d7ae",
+      "type": "flight",
+      "start": "2024-12-16T23:00:00.000Z",
+      "end": "2024-12-16T23:00:00.000Z",
+      "origin": {
+        "code": "HTT"
+      },
+      "destination": {
+        "code": "UNI"
+      },
+      "carrier": "ET",
+      "number": "02",
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-f6b6985e60dd5900f9998818f3b2b0ad0bcbbfc8138b0b9369a548484e769a00",
+      "type": "flight",
+      "start": "2025-01-01T23:00:00.000Z",
+      "end": "2025-01-01T23:00:00.000Z",
+      "origin": {
+        "code": "YOU"
+      },
+      "destination": {
+        "code": "ASE"
+      },
+      "amount": {
+        "value": 1.99,
+        "currency": "USD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-df5870261ad758b25d50a6823523a5f17997b57d1220141238fe909134f4f1c3",
+      "type": "flight",
+      "start": "2025-01-20T23:00:00.000Z",
+      "end": "2025-01-20T23:00:00.000Z",
+      "origin": {
+        "code": "HTT"
+      },
+      "destination": {
+        "code": "UNI"
+      },
+      "carrier": "ET",
+      "number": "02",
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-da5d753c5935148e0bbcae4d162b3de7d078325f771e1fdcde16968c57acba27",
+      "type": "flight",
+      "start": "2025-01-30T23:00:00.000Z",
+      "end": "2025-01-30T23:00:00.000Z",
+      "origin": {
+        "code": "YOU"
+      },
+      "destination": {
+        "code": "ASE"
+      },
+      "amount": {
+        "value": 1.99,
+        "currency": "USD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-35cce478737d72fa8b966e3017eea40618fd93165464111aca0f116d07dcf042",
+      "type": "flight",
+      "start": "2025-01-31T23:00:00.000Z",
+      "end": "2025-01-31T23:00:00.000Z",
+      "origin": {
+        "code": "ERS"
+      },
+      "destination": {
+        "code": "HEA"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-002176c0b43252e7a831cc87c5463b327dea822e345b9805448eb38fac8a67a1",
+      "type": "flight",
+      "start": "2025-02-05T23:00:00.000Z",
+      "end": "2025-02-05T23:00:00.000Z",
+      "origin": {
+        "code": "GST"
+      },
+      "destination": {
+        "code": "UNI"
+      },
+      "carrier": "ET",
+      "number": "06",
+      "amount": {
+        "value": 1,
+        "currency": "USD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-e6d82e325c3c0fc3e3f12bb4a9145fbfa3b4bc96ed6003266e6c418a92503ee3",
+      "type": "flight",
+      "start": "2025-02-06T22:11:00.000Z",
+      "end": "2025-02-06T22:11:00.000Z",
+      "origin": {
+        "code": "GON"
+      },
+      "destination": {
+        "code": "DEA"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-09f648131fe978daf75a555499898aa3567f3a5b77ac532e32a38a9045f18bed",
+      "type": "flight",
+      "start": "2025-02-06T23:00:00.000Z",
+      "end": "2025-02-06T23:00:00.000Z",
+      "origin": {
+        "code": "CAN"
+      },
+      "destination": {
+        "code": "ORT"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-f229bd857cc8606279f5c76d0cb8b6304a2113d144b86bb357172bdb9ee42f6c",
+      "type": "flight",
+      "start": "2025-02-14T08:00:00.000Z",
+      "end": "2025-02-14T23:00:00.000Z",
+      "origin": {
+        "code": "TSA"
+      },
+      "destination": {
+        "code": "UNI"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-deeaa1ec47edd09721bd1dfae4ad05329c5a076951857dc16240f0cb15f07a25",
+      "type": "flight",
+      "start": "2025-02-14T23:00:00.000Z",
+      "end": "2025-02-14T23:00:00.000Z",
+      "origin": {
+        "code": "BEI"
+      },
+      "destination": {
+        "code": "SAN"
+      },
+      "carrier": "UA",
+      "number": "889",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-3611b11d35cab1e53569079b00578015b8ce3553b159a36505c716e42e77660f",
+      "type": "flight",
+      "start": "2025-02-14T23:00:00.000Z",
+      "end": "2025-02-14T23:00:00.000Z",
+      "origin": {
+        "code": "CAD"
+      },
+      "destination": {
+        "code": "THA"
+      },
+      "carrier": "UA",
+      "number": "889",
+      "amount": {
+        "value": 1748,
+        "currency": "CAD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-367fec40d72c8fc61931300d48e3844465476c13d97ca9fdab2d722acd2536fb",
+      "type": "flight",
+      "start": "2025-02-17T23:00:00.000Z",
+      "end": "2025-02-17T23:00:00.000Z",
+      "origin": {
+        "code": "HTT"
+      },
+      "destination": {
+        "code": "HTT"
+      },
+      "carrier": "ET",
+      "number": "02",
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-53288bb5bb434a74e3b333d8638029fc223a9090e09562cc60e1ab933b00ec91",
+      "type": "flight",
+      "start": "2025-02-25T23:00:00.000Z",
+      "end": "2025-02-25T23:00:00.000Z",
+      "origin": {
+        "code": "HAN"
+      },
+      "destination": {
+        "code": "SIX"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-29146596adfbe3e3928d0a00a07966a4329a5c8f446e46029aa32ddc946c515e",
+      "type": "flight",
+      "start": "2025-02-28T23:00:00.000Z",
+      "end": "2025-02-28T23:00:00.000Z",
+      "origin": {
+        "code": "GOO"
+      },
+      "destination": {
+        "code": "BEF"
+      },
+      "amount": {
+        "value": 2.79,
+        "currency": "USD"
+      },
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-295d9635e9cb2b504fe7be002d06b97b6435f8fd4a708a86af81f709f9283c5e",
+      "type": "restaurant",
+      "start": "2025-03-04T23:00:00.000Z",
+      "vendor": "Your reservation at HaiDiLao HotPot Richmond is confirmed",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-60447dea7fe18e69013e9f607853e3321914fcb244b55c09964e2240ce634c2d",
+      "type": "flight",
+      "start": "2025-03-16T22:00:00.000Z",
+      "end": "2025-03-16T22:00:00.000Z",
+      "origin": {
+        "code": "VIE"
+      },
+      "destination": {
+        "code": "RIP"
+      },
+      "amount": {
+        "value": 12.38,
+        "currency": "USD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-559975f197b93089f058c2ea2f121d20db478b904c737b7cad0175c215c9837b",
+      "type": "flight",
+      "start": "2025-03-17T22:00:00.000Z",
+      "end": "2025-03-17T22:00:00.000Z",
+      "origin": {
+        "code": "HTT"
+      },
+      "destination": {
+        "code": "HTT"
+      },
+      "carrier": "ET",
+      "number": "02",
+      "amount": {
+        "value": 0,
+        "currency": "CAD"
+      },
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-f58617f7e5641c32e0e404fad33e68ae75ae347f0e8f89b0260a3f953f804a73",
+      "type": "hotel",
+      "start": "2025-03-24T23:00:00.000Z",
+      "end": "2025-03-30T19:00:00.000Z",
+      "vendor": "Reservation Confirmation #75095822 for Sheraton Lincoln Harbor Hotel",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-f5e33f68d547d0b5727b6706c016932a84d4d61bd11b46491247e7879a6277d9",
+      "type": "flight",
+      "start": "2025-03-28T22:00:00.000Z",
+      "end": "2025-03-28T22:00:00.000Z",
+      "origin": {
+        "code": "NOT"
+      },
+      "destination": {
+        "code": "CHA"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-75efb54f6f6238729a20cd22d9c9b2c1bf50020edf517a8b44004a74797c54bd",
+      "type": "flight",
+      "start": "2025-03-28T22:00:00.000Z",
+      "end": "2025-03-28T22:00:00.000Z",
+      "origin": {
+        "code": "GOO"
+      },
+      "destination": {
+        "code": "ADD"
+      },
+      "amount": {
+        "value": 2.79,
+        "currency": "USD"
+      },
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-88eb56b37a6d1414fae7fad9f2f0bbcb5b09d9a9fa7e7258508d762c0aa32ff1",
+      "type": "flight",
+      "start": "2025-03-29T22:00:00.000Z",
+      "end": "2025-03-29T22:00:00.000Z",
+      "origin": {
+        "code": "GST"
+      },
+      "destination": {
+        "code": "UNI"
+      },
+      "carrier": "ET",
+      "number": "05",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-4f68f1bec46a6b77f63d039351db9a8b3bff23f156d58b64faf5bead187277d9",
+      "type": "flight",
+      "start": "2025-04-13T22:00:00.000Z",
+      "end": "2025-04-13T22:00:00.000Z",
+      "origin": {
+        "code": "GST"
+      },
+      "destination": {
+        "code": "UNI"
+      },
+      "carrier": "ET",
+      "number": "02",
+      "amount": {
+        "value": 1,
+        "currency": "USD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-05eebf30455148afb9eed607ce5fb44222f4ce41f188770652cf609dee8e9cd9",
+      "type": "flight",
+      "start": "2025-04-14T22:00:00.000Z",
+      "end": "2025-04-14T22:00:00.000Z",
+      "origin": {
+        "code": "GST"
+      },
+      "destination": {
+        "code": "UNI"
+      },
+      "carrier": "ET",
+      "number": "02",
+      "amount": {
+        "value": 1,
+        "currency": "USD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-f0b654809cb52d41456e4de559ecbda5abf1758f53fdbd0c9a5cae6552469245",
+      "type": "flight",
+      "start": "2025-04-14T22:00:00.000Z",
+      "end": "2025-04-14T22:00:00.000Z",
+      "origin": {
+        "code": "HTT"
+      },
+      "destination": {
+        "code": "CHO"
+      },
+      "carrier": "ET",
+      "number": "02",
+      "amount": {
+        "value": 8007,
+        "currency": "CAD"
+      },
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-abc58a6f32215837569ccab606de379afe2276d2cff3268179f4facd9e092134",
+      "type": "flight",
+      "start": "2025-04-28T22:00:00.000Z",
+      "end": "2025-04-28T22:00:00.000Z",
+      "origin": {
+        "code": "GOO"
+      },
+      "destination": {
+        "code": "ADD"
+      },
+      "amount": {
+        "value": 2.79,
+        "currency": "USD"
+      },
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-31b204cf23b877b6605a1eeb669195d93945ddf129a9c4218fd46159deb8f08b",
+      "type": "flight",
+      "start": "2025-04-30T22:00:00.000Z",
+      "end": "2025-04-30T22:00:00.000Z",
+      "origin": {
+        "code": "ACC"
+      },
+      "destination": {
+        "code": "RAM"
+      },
+      "status": "changed"
+    },
+    {
+      "id": "sha256-d70cba94fb198771a136d381739157ba84c9bca131fa2bbaabb412784ecdb18a",
+      "type": "flight",
+      "start": "2025-04-30T22:00:00.000Z",
+      "end": "2025-04-30T22:00:00.000Z",
+      "destination": {
+        "code": "DEA"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-82378d9712951160a6d29c9b7cfb7fc212aae9809f6ae756cedd7ceb54368994",
+      "type": "flight",
+      "start": "2025-05-08T22:00:00.000Z",
+      "end": "2025-05-08T22:00:00.000Z",
+      "origin": {
+        "code": "NOW"
+      },
+      "destination": {
+        "code": "PLU"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-921daba01f28bb673f18fe1849a20f45efc1e2e0541e3bfad7f51578de91def0",
+      "type": "flight",
+      "start": "2025-05-12T22:00:00.000Z",
+      "end": "2025-05-12T22:00:00.000Z",
+      "origin": {
+        "code": "GST"
+      },
+      "destination": {
+        "code": "HTT"
+      },
+      "carrier": "ET",
+      "number": "04",
+      "amount": {
+        "value": 1,
+        "currency": "USD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-4f907b153dededd668ede8ca11fe55585e7ed095f42f431281944d460059490e",
+      "type": "flight",
+      "start": "2025-05-12T22:00:00.000Z",
+      "end": "2025-05-12T22:00:00.000Z",
+      "origin": {
+        "code": "GST"
+      },
+      "destination": {
+        "code": "UNI"
+      },
+      "carrier": "ET",
+      "number": "04",
+      "amount": {
+        "value": 1,
+        "currency": "USD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-0191562bf0206c1cfe6498ecfd78a6d09b6186fd8dc5876d4fcd61a06da9e57f",
+      "type": "flight",
+      "start": "2025-05-19T22:00:00.000Z",
+      "end": "2025-05-19T22:00:00.000Z",
+      "origin": {
+        "code": "HTT"
+      },
+      "destination": {
+        "code": "CHO"
+      },
+      "carrier": "ET",
+      "number": "03",
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-dd6323f601ea08880e3e41c462c77a498ce993dbd9428a43d9cac46478c1f8ed",
+      "type": "flight",
+      "start": "2025-05-22T22:00:00.000Z",
+      "end": "2025-05-22T22:00:00.000Z",
+      "origin": {
+        "code": "USA"
+      },
+      "destination": {
+        "code": "RAM"
+      },
+      "status": "changed"
+    },
+    {
+      "id": "sha256-79d82037ec84d5eb810c5f0a5637712f742531f4982aa2c1fc21c18daba0a5f3",
+      "type": "flight",
+      "start": "2025-05-28T22:00:00.000Z",
+      "end": "2025-05-28T22:00:00.000Z",
+      "origin": {
+        "code": "GOO"
+      },
+      "destination": {
+        "code": "TAX"
+      },
+      "amount": {
+        "value": 2.79,
+        "currency": "USD"
+      },
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-87e3e9bef534435b669f0d031962529f013a8374b39d3e2ee52d7b7904ed41a7",
+      "type": "flight",
+      "start": "2025-06-03T00:00:00.000Z",
+      "end": "2025-06-03T22:00:00.000Z",
+      "origin": {
+        "code": "PLE"
+      },
+      "destination": {
+        "code": "FRO"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-7a6391577a1e948c1c0f5cb89d957402e3473b5741c33a4cde8d3ea4a4cd6147",
+      "type": "flight",
+      "start": "2025-06-04T22:00:00.000Z",
+      "end": "2025-06-04T22:00:00.000Z",
+      "origin": {
+        "code": "HTT"
+      },
+      "destination": {
+        "code": "GUE"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-631aca29e658e61972f0a2e1e4242b985b1fb26559fc046307ebd443ec9cfe95",
+      "type": "flight",
+      "start": "2025-06-04T22:00:00.000Z",
+      "end": "2025-06-04T22:00:00.000Z",
+      "origin": {
+        "code": "GSR"
+      },
+      "destination": {
+        "code": "RES"
+      },
+      "amount": {
+        "value": 42.95,
+        "currency": "USD"
+      },
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-b10ee33aff26b0b5d9fbdd43d544230db941511af93a78c7ad5f3b4357a8179c",
+      "type": "flight",
+      "start": "2025-06-04T22:00:00.000Z",
+      "end": "2025-06-04T22:00:00.000Z",
+      "origin": {
+        "code": "YOU"
+      },
+      "destination": {
+        "code": "YOU"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-d3099c2a800ec69fdfb28f86a5cad04b9a9d3e1150648f89166c2903206075a7",
+      "type": "flight",
+      "start": "2025-06-04T22:00:00.000Z",
+      "end": "2025-06-04T22:00:00.000Z",
+      "origin": {
+        "code": "LES"
+      },
+      "destination": {
+        "code": "LES"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-b05ae20898093e9995e15ce040bba7dd9642e95b41cb9e93babc8b94146fec3d",
+      "type": "flight",
+      "start": "2025-06-16T22:00:00.000Z",
+      "end": "2025-06-16T22:00:00.000Z",
+      "origin": {
+        "code": "HTT"
+      },
+      "destination": {
+        "code": "CHO"
+      },
+      "carrier": "ET",
+      "number": "03",
+      "status": "cancelled"
+    },
+    {
       "id": "sha256-bf1e1d7955c89e091499cc8f9f47ee35816f9ed9f2426d79869be71f68d74395",
       "type": "flight",
       "start": "2025-06-28T22:00:00.000Z",
@@ -151,6 +1766,59 @@
       "status": "cancelled"
     },
     {
+      "id": "sha256-83294dc5b1de3a49fa87c39492bd8fd12dcfc7264358836fddcab79425b364c4",
+      "type": "flight",
+      "start": "2025-06-29T22:00:00.000Z",
+      "end": "2025-06-29T22:00:00.000Z",
+      "origin": {
+        "code": "GST"
+      },
+      "destination": {
+        "code": "UNI"
+      },
+      "carrier": "ET",
+      "number": "04",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-445ff83aeb90d8302bdaa63dd75e383dc353f3c5a054bdb9da91efead706afb5",
+      "type": "flight",
+      "start": "2025-07-14T22:00:00.000Z",
+      "end": "2025-07-14T22:00:00.000Z",
+      "origin": {
+        "code": "KIM"
+      },
+      "destination": {
+        "code": "SIG"
+      },
+      "carrier": "ET",
+      "number": "05",
+      "amount": {
+        "value": 1,
+        "currency": "USD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-ed9692613581700d77b77dbfa6888a4a5f6228a988510de4ceead1aa72205235",
+      "type": "flight",
+      "start": "2025-07-14T22:00:00.000Z",
+      "end": "2025-07-14T22:00:00.000Z",
+      "origin": {
+        "code": "HTT"
+      },
+      "destination": {
+        "code": "HTT"
+      },
+      "carrier": "ET",
+      "number": "05",
+      "amount": {
+        "value": 1,
+        "currency": "USD"
+      },
+      "status": "confirmed"
+    },
+    {
       "id": "sha256-867b06eae2157fba009a442760b24280d8ac663c58eb65becff70441ad1e33b6",
       "type": "hotel",
       "start": "2025-07-16T07:00:00.000Z",
@@ -162,11 +1830,60 @@
       "status": "cancelled"
     },
     {
+      "id": "sha256-9a33723c84b549853ee3aa1930084494c9db68231b4411f19b8f36da02b5b3cb",
+      "type": "flight",
+      "start": "2025-07-21T22:00:00.000Z",
+      "end": "2025-07-21T22:00:00.000Z",
+      "origin": {
+        "code": "HTT"
+      },
+      "destination": {
+        "code": "CHO"
+      },
+      "carrier": "ET",
+      "number": "03",
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-d2a7351d7e4e11cde8cfdea1bf7f11ab318be522861149db2e3a30013052c975",
+      "type": "flight",
+      "start": "2025-07-25T22:00:00.000Z",
+      "end": "2025-07-25T22:00:00.000Z",
+      "origin": {
+        "code": "GST"
+      },
+      "destination": {
+        "code": "UNI"
+      },
+      "carrier": "ET",
+      "number": "04",
+      "amount": {
+        "value": 1,
+        "currency": "USD"
+      },
+      "status": "confirmed"
+    },
+    {
       "id": "sha256-0bbf8e2a9b827fea705a1ba658e7dad971b7e80efd1378357382378cc2506f24",
       "type": "restaurant",
       "start": "2025-08-10T22:00:00.000Z",
       "vendor": "Your reservation at HaiDiLao HotPot Richmond is confirmed",
       "status": "confirmed"
+    },
+    {
+      "id": "sha256-b808e5e867e48958261ebcf703040b257ffd930cf551526f32d24fb6a3b266a9",
+      "type": "flight",
+      "start": "2025-08-18T22:00:00.000Z",
+      "end": "2025-08-18T22:00:00.000Z",
+      "origin": {
+        "code": "HTT"
+      },
+      "destination": {
+        "code": "CHO"
+      },
+      "carrier": "ET",
+      "number": "05",
+      "status": "cancelled"
     },
     {
       "id": "sha256-1910a9205698f3990290b45bdea99c1b534fcdf8890b14ff5256fac12cc7f7a7",
@@ -181,6 +1898,93 @@
       },
       "carrier": "UA",
       "number": "877",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-1a358e26e23b0e8c6ded19f4eb311900e2a0772219a2221d2cfa33c1c7712803",
+      "type": "flight",
+      "start": "2025-08-24T22:00:00.000Z",
+      "end": "2025-08-24T22:00:00.000Z",
+      "origin": {
+        "code": "GST"
+      },
+      "destination": {
+        "code": "UNI"
+      },
+      "carrier": "ET",
+      "number": "04",
+      "amount": {
+        "value": 7898,
+        "currency": "CAD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-9a496e1098edffd6c02cd62ed6c3e944f384033d3b10b7e56c08e6bc2bb7422f",
+      "type": "flight",
+      "start": "2025-08-26T07:00:00.000Z",
+      "end": "2025-08-26T22:00:00.000Z",
+      "origin": {
+        "code": "HKG"
+      },
+      "destination": {
+        "code": "UNI"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-c79410d18525341672e25ccbd94e03ab63574a44d1d4aa5fd0a8a696e223ed7d",
+      "type": "flight",
+      "start": "2025-08-26T22:00:00.000Z",
+      "end": "2025-08-26T22:00:00.000Z",
+      "origin": {
+        "code": "CAD"
+      },
+      "destination": {
+        "code": "THA"
+      },
+      "carrier": "UA",
+      "number": "2064",
+      "amount": {
+        "value": 381.5,
+        "currency": "CAD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-e8cebb1922bc9afe4558276aa004b38f1180e8822ed8100735c0a76b795f536f",
+      "type": "flight",
+      "start": "2025-09-30T22:00:00.000Z",
+      "end": "2025-09-30T22:00:00.000Z",
+      "origin": {
+        "code": "AWD"
+      },
+      "destination": {
+        "code": "UNI"
+      },
+      "carrier": "ET",
+      "number": "05",
+      "amount": {
+        "value": 1.5,
+        "currency": "USD"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-3a89a39395f1d22712b7b28d36f021af575d5568ef2ebb3acebc7042607ca1d1",
+      "type": "flight",
+      "start": "2026-01-01T23:00:00.000Z",
+      "end": "2026-01-01T23:00:00.000Z",
+      "origin": {
+        "code": "COM"
+      },
+      "destination": {
+        "code": "LEA"
+      },
+      "amount": {
+        "value": 1,
+        "currency": "USD"
+      },
       "status": "confirmed"
     }
   ]
