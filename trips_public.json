@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-24T06:17:06.919Z",
+  "generated_at": "2025-08-24T06:26:17.723Z",
   "timezone": "America/Vancouver",
   "items": [
     {
@@ -17,10 +17,6 @@
       "passengers": [
         "***"
       ],
-      "amount": {
-        "value": 0,
-        "currency": "CAD"
-      },
       "status": "cancelled"
     },
     {
@@ -32,10 +28,6 @@
       },
       "destination": {
         "name": "alt"
-      },
-      "amount": {
-        "value": 77.77,
-        "currency": "USD"
       },
       "status": "cancelled"
     },
@@ -54,10 +46,6 @@
       "passengers": [
         "***"
       ],
-      "amount": {
-        "value": 0,
-        "currency": "USD"
-      },
       "status": "cancelled"
     },
     {
