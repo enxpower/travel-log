@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Travel Timeline</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>📍 Travel Timeline</h1>
+    <div class="toolbar">
+      <label>
+        类型
+        <select id="typeFilter">
+          <option value="">全部</option>
+          <option>flight</option><option>train</option><option>hotel</option>
+          <option>campsite</option><option>rideshare</option><option>rental</option>
+          <option>ferry</option><option>event</option><option>restaurant</option><option>parking</option><option>other</option>
+        </select>
+      </label>
+      <label>
+        供应商/关键词
+        <input id="q" type="search" placeholder="Air Canada, Marriott, KOA..." />
+      </label>
+      <label>
+        起
+        <input id="fromDate" type="date" />
+      </label>
+      <label>
+        止
+        <input id="toDate" type="date" />
+      </label>
+      <button id="btnExport">导出 ICS</button>
+      <button id="btnReset">重置筛选</button>
+    </div>
+  </header>
+
+  <main id="app">
+    <div id="summary" class="summary"></div>
+    <div id="timeline" class="timeline"></div>
+  </main>
+
+  <footer class="site-footer">
+    <span>Data: <code>trips.json</code> • Static by GitHub Pages</span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
