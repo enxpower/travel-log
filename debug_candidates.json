@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-08-24T06:08:07.883Z",
-  "count": 27,
+  "generated_at": "2025-08-24T07:07:11.725Z",
+  "count": 26,
   "items": [
     {
       "id": "198ced5e573d6c3a",
@@ -180,16 +180,6 @@
       "domain": "notification.aircanada.ca",
       "subject": "Air Canada - 14 Feb 2025: San Francisco - Vancouver (Booking Reference: 2O829P)",
       "classified_as": null,
-      "hasIcs": false
-    },
-    {
-      "id": "194f4d6a2bb35f4a",
-      "thread_id": "194f4d6a2bb35f4a",
-      "date": "2025-02-11T11:48:12.000Z",
-      "from": "United Airlines <Receipts@united.com>",
-      "domain": "united.com",
-      "subject": "eTicket Itinerary and Receipt for Confirmation IP3ZB6",
-      "classified_as": "flight",
       "hasIcs": false
     },
     {
