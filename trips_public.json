@@ -1,5 +1,66 @@
 {
-  "generated_at": "2025-08-24T08:19:49.497Z",
+  "generated_at": "2025-08-24T08:25:31.520Z",
   "timezone": "America/Vancouver",
-  "items": []
+  "items": [
+    {
+      "id": "sha256-9e98d68cafc8f53f9eb5ca7694d6f8da963e83c83ac0b930464d6e9006382b9d",
+      "type": "hotel",
+      "end": "2024-03-19T07:00:00.000Z",
+      "vendor": "Complimentary hotel and meal details",
+      "status": "changed"
+    },
+    {
+      "id": "sha256-0bf3193b3b73d90e61f840b2e16c32508308a5f8d0832beafa1d4eb54550adde",
+      "type": "hotel",
+      "end": "2024-03-15T15:00:00.000Z",
+      "vendor": "[image: Courtyard By Marriott]",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-fe2b572101db8a63257b57a2d0d503be742e0ad1c5053c0debd66e5c7220a70c",
+      "type": "hotel",
+      "end": "2024-03-13T16:00:00.000Z",
+      "vendor": "Reservation Confirmation #71791230 for Fairfield Inn & Suites Orlando Lake Buena Vista in the Marriott Village",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-2ceb1911015c49d67684e317166fbce4cc33f566d689803707edc317c795910c",
+      "type": "hotel",
+      "end": "2024-01-04T16:00:00.000Z",
+      "vendor": "[image: Courtyard By Marriott]",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-805c3e9ab14caf0858aca47277b132dd38070056ac8251fb48724528f2a6db7a",
+      "type": "campsite",
+      "start": "2024-07-01T07:00:00.000Z",
+      "end": "2024-07-02T11:00:00.000Z",
+      "vendor": "Beehive RV Park & Campground",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-060a0374d69375d29e172e414f6b90f136f73d6e3585a6c7b8fd1699b948b436",
+      "type": "campsite",
+      "start": "2024-08-05T07:00:00.000Z",
+      "end": "2024-08-06T11:00:00.000Z",
+      "vendor": "*06) P-12 RV Site* *$75.00*Sun, Aug 4, 2024 — 1 Adults — $75.00",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-405b6085355fe92c19ee9084976bc0036b53d7a7caa4604bf13f01cbf54170cf",
+      "type": "hotel",
+      "start": "2025-03-24T16:00:00.000Z",
+      "end": "2025-03-24T16:00:00.000Z",
+      "vendor": "Reservation Confirmation #75095822 for Sheraton Lincoln Harbor Hotel",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-a099843d99a6709775ef2ae84409fc00787be16d1d837e9cc66875d96339ba56",
+      "type": "campsite",
+      "start": "2025-03-24T16:00:00.000Z",
+      "end": "2025-03-24T16:00:00.000Z",
+      "vendor": "On-site parking, fee: 35.00 USD daily",
+      "status": "confirmed"
+    }
+  ]
 }
