@@ -1,9 +1,9 @@
 {
-  "generated_at": "2025-08-24T06:15:14.844Z",
+  "generated_at": "2025-08-24T06:16:51.378Z",
   "timezone": "America/Vancouver",
   "items": [
     {
-      "id": "sha256-1af5c835475ee53a1554447403551d2a19243b64e96bda8a6fbd8b4b318009af",
+      "id": "sha256-8768ea0b41bfec801a65e25f4f2e564569d5156d3b75b45899a3a8d0d4cf2cf6",
       "type": "flight",
       "origin": {
         "code": "YVR"
@@ -13,6 +13,7 @@
       },
       "carrier": "UA",
       "number": "2064",
+      "confirmation": "ILWY0G",
       "passengers": [
         "*7.70 *"
       ],
@@ -49,19 +50,7 @@
       "status": "cancelled"
     },
     {
-      "id": "sha256-e94f1a7ccdad9d24597bcec5b8d45a3b38e32989c48bf21f41a14d2dd1712733",
-      "type": "hotel",
-      "vendor": "Your Reservation Confirmation # 23343275 at Holiday Inn Express Hotels & Resorts.",
-      "address": "&zwnj;9750 KeyPointe Ave,&zwnj;",
-      "raw": {
-        "message_id": "1973c7de2ee3028d",
-        "thread_id": "1973c7de2ee3028d",
-        "date": "2025-06-04T19:49:31.000Z"
-      },
-      "status": "confirmed"
-    },
-    {
-      "id": "sha256-9fcfb297f5195f9ff6327614736402b5e9032a7fd7e870ce0ed601f729c9ad06",
+      "id": "sha256-d2011391fe4a3134c12996f19fba6ed1dc2290c9d3e2d9304c6621f0510c05de",
       "type": "flight",
       "origin": {
         "code": "PEK"
@@ -71,6 +60,7 @@
       },
       "carrier": "UA",
       "number": "889",
+      "confirmation": "IP3ZB6",
       "passengers": [
         "*1824.10 CAD*"
       ],
@@ -79,11 +69,34 @@
         "currency": "USD"
       },
       "raw": {
-        "message_id": "194f4d6a2bb35f4a",
+        "message_id": "194f4d6a9ad37dc1",
         "thread_id": "194f4d6a2bb35f4a",
-        "date": "2025-02-11T11:48:12.000Z"
+        "date": "2025-02-11T11:48:14.000Z"
       },
       "status": "cancelled"
+    },
+    {
+      "id": "sha256-4a3cad97a6491c316990897d885b579c51b95980cb9dd656eb39c05f6469d732",
+      "type": "flight",
+      "origin": {
+        "code": "PEK"
+      },
+      "destination": {
+        "code": "SFO"
+      },
+      "carrier": "UA",
+      "number": "889",
+      "confirmation": "number",
+      "amount": {
+        "value": 1748,
+        "currency": "CAD"
+      },
+      "raw": {
+        "message_id": "194f4d57161049dd",
+        "thread_id": "194f4d57161049dd",
+        "date": "2025-02-11T11:46:54.000Z"
+      },
+      "status": "confirmed"
     }
   ]
 }
