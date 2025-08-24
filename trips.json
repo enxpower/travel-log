@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-24T06:17:06.918Z",
+  "generated_at": "2025-08-24T06:26:17.722Z",
   "timezone": "America/Vancouver",
   "items": [
     {
@@ -17,10 +17,6 @@
       "passengers": [
         "*7.70 *"
       ],
-      "amount": {
-        "value": 0,
-        "currency": "CAD"
-      },
       "raw": {
         "message_id": "198c15714c66da5d",
         "thread_id": "198c15714c66da5d",
@@ -37,10 +33,6 @@
       },
       "destination": {
         "name": "alt"
-      },
-      "amount": {
-        "value": 77.77,
-        "currency": "USD"
       },
       "raw": {
         "message_id": "19814dc7fc6dda62",
@@ -64,10 +56,6 @@
       "passengers": [
         "*1824.10 CAD*"
       ],
-      "amount": {
-        "value": 0,
-        "currency": "USD"
-      },
       "raw": {
         "message_id": "194f4d6a9ad37dc1",
         "thread_id": "194f4d6a2bb35f4a",
