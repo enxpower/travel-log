@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-24T05:19:59.563Z",
+  "generated_at": "2025-08-24T05:37:03.318Z",
   "timezone": "America/Vancouver",
   "items": [
     {
@@ -1002,6 +1002,80 @@
         "currency": "USD"
       },
       "status": "confirmed"
+    },
+    {
+      "id": "sha256-1af5c835475ee53a1554447403551d2a19243b64e96bda8a6fbd8b4b318009af",
+      "type": "flight",
+      "origin": {
+        "code": "YVR"
+      },
+      "destination": {
+        "code": "SFO"
+      },
+      "carrier": "UA",
+      "number": "2064",
+      "passengers": [
+        "***"
+      ],
+      "amount": {
+        "value": 0,
+        "currency": "CAD"
+      },
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-9fcfb297f5195f9ff6327614736402b5e9032a7fd7e870ce0ed601f729c9ad06",
+      "type": "flight",
+      "origin": {
+        "code": "PEK"
+      },
+      "destination": {
+        "code": "SFO"
+      },
+      "carrier": "UA",
+      "number": "889",
+      "passengers": [
+        "***"
+      ],
+      "amount": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "status": "cancelled"
+    },
+    {
+      "id": "sha256-ebd86b34991e067a8d51156a32fec00338c64ef1070b346295c23364b0a5f4f4",
+      "type": "flight",
+      "origin": {
+        "code": "YVR"
+      },
+      "destination": {
+        "code": "SFO"
+      },
+      "carrier": "UA",
+      "number": "877",
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-09d0908db8fc383a5a1f90c4d5bbb5c7f837be671e4092169fc20b49f08cef73",
+      "type": "flight",
+      "origin": {
+        "code": "RNO"
+      },
+      "destination": {
+        "code": "LAX"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": "sha256-c69cfa8a6a4167adb636fde7a72c5c9b4cdd704da6905010808d8d84e2f0f7d8",
+      "type": "flight",
+      "origin": {
+        "code": "EWR"
+      },
+      "carrier": "AC",
+      "number": "549",
+      "status": "changed"
     },
     {
       "id": "sha256-f5ad997bf9e08507bfc4b7ba1dc045495a9b19e6fc0cba2a1232592d68f4ce58",
