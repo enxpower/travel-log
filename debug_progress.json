@@ -1,9 +1,9 @@
 {
-  "ts": "2025-08-24T09:51:12.185Z",
+  "ts": "2025-08-24T09:56:09.241Z",
   "cursor": {
     "startOffset": 200,
-    "threadIdx": 25,
-    "msgIdx": 1,
+    "threadIdx": 83,
+    "msgIdx": 4,
     "done": false
   },
   "cfg": {
