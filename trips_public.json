@@ -1,9 +1,9 @@
 {
-  "generated_at": "2025-08-24T06:15:14.846Z",
+  "generated_at": "2025-08-24T06:16:51.379Z",
   "timezone": "America/Vancouver",
   "items": [
     {
-      "id": "sha256-1af5c835475ee53a1554447403551d2a19243b64e96bda8a6fbd8b4b318009af",
+      "id": "sha256-8768ea0b41bfec801a65e25f4f2e564569d5156d3b75b45899a3a8d0d4cf2cf6",
       "type": "flight",
       "origin": {
         "code": "YVR"
@@ -13,6 +13,7 @@
       },
       "carrier": "UA",
       "number": "2064",
+      "confirmation": "****0G",
       "passengers": [
         "***"
       ],
@@ -39,14 +40,7 @@
       "status": "cancelled"
     },
     {
-      "id": "sha256-e94f1a7ccdad9d24597bcec5b8d45a3b38e32989c48bf21f41a14d2dd1712733",
-      "type": "hotel",
-      "vendor": "Your Reservation Confirmation # 23343275 at Holiday Inn Express Hotels & Resorts.",
-      "address": "&zwnj;9750 KeyPointe Ave,&zwnj;",
-      "status": "confirmed"
-    },
-    {
-      "id": "sha256-9fcfb297f5195f9ff6327614736402b5e9032a7fd7e870ce0ed601f729c9ad06",
+      "id": "sha256-d2011391fe4a3134c12996f19fba6ed1dc2290c9d3e2d9304c6621f0510c05de",
       "type": "flight",
       "origin": {
         "code": "PEK"
@@ -56,6 +50,7 @@
       },
       "carrier": "UA",
       "number": "889",
+      "confirmation": "****B6",
       "passengers": [
         "***"
       ],
@@ -64,6 +59,24 @@
         "currency": "USD"
       },
       "status": "cancelled"
+    },
+    {
+      "id": "sha256-4a3cad97a6491c316990897d885b579c51b95980cb9dd656eb39c05f6469d732",
+      "type": "flight",
+      "origin": {
+        "code": "PEK"
+      },
+      "destination": {
+        "code": "SFO"
+      },
+      "carrier": "UA",
+      "number": "889",
+      "confirmation": "****er",
+      "amount": {
+        "value": 1748,
+        "currency": "CAD"
+      },
+      "status": "confirmed"
     }
   ]
 }
