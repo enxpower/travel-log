@@ -1,0 +1,243 @@
+{
+  "generated_at": "2025-08-25T22:10:07.082Z",
+  "totals": {
+    "scanned": 50,
+    "ai_called": 50,
+    "kept": 4,
+    "dropped": 46,
+    "threads": 48,
+    "done": false
+  },
+  "dropped_sample": [
+    {
+      "id": "1983580348e0c96b",
+      "subject": "Confirm your email address with Sun Life",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "19835805a2a381df",
+      "subject": "Confirm your email address with Sun Life",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "198345de10c1cd17",
+      "subject": "July 2025: Fire Ban-Ready Gear, Summer Care Tips & New Trangia Releases",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "198336811f841f93",
+      "subject": "Important info about domain registration data changes.",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "198335dbc51fe602",
+      "subject": "Don't miss out on up to 85% bonus miles",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "198333a2b3fa8db4",
+      "subject": "Register for my Sun Life online to access the Canadian Dental Care Plan member portal",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "19832fde9c42b2bb",
+      "subject": "Fw: Capacity Horizon",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "19832b9f72b10f85",
+      "subject": "Deadline Extended for Innovative Solutions Canada's AI Testing Stream / Date de clôture prolongée pour le volet mise à l",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "198329ef2c9a247e",
+      "subject": "Charlottetown ARC Flea Market - July 26th, 2025",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "198329e8331f5edf",
+      "subject": "Summary of failures for Google Apps Script: StockAnalyzerBot – RSI & MACD with GPT Insight",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "1982f1340b3b40ac",
+      "subject": "Security alert for 0wendygong0@gmail.com",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "1982f134eeedc0fe",
+      "subject": "Security alert for 0wendygong0@gmail.com",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "1982d78259f9e910",
+      "subject": "Summary of failures for Google Apps Script: StockAnalyzerBot – RSI & MACD with GPT Insight",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "1982851c541ee5ca",
+      "subject": "Summary of failures for Google Apps Script: StockAnalyzerBot – RSI & MACD with GPT Insight",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "197cec0d60fe932b",
+      "subject": "Included with your Amazon order: Free 90 days of music",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "197ce506156637ef",
+      "subject": "Your Shaw bill is ready",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "197cd7ecfc69546c",
+      "subject": "Coming Friday, July 4th... All the Sharks",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "197cd544bad6c464",
+      "subject": "Your latest statement is now available",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "197cca40ba0c8d84",
+      "subject": "Tiejing, earn 75,000 bonus points with Chase Sapphire Preferred®",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "197cc3fedf3842f7",
+      "subject": "Your e-bill is ready",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "197cbcd2f652ed1a",
+      "subject": "Mid-Year Balancing starts TODAY! | La conciliation de mi-année commence AUJOURD’HUI!",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "197cbbdf0c4a79b9",
+      "subject": "Here's the password for changing your domain settings.",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "197cb7504141c7ce",
+      "subject": "Keeping You in the Loop on Houston",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "197cb43ce3c45ffe",
+      "subject": "ADP ANSWERS NOW: YEAR END MID-YEAR BALANCING CHECKPOINT | ADP VOUS REPOND: FIN D'ANNÉE CONCILIATION - CONTRÔLE SEMESTRIE",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "197cb202365ebeb1",
+      "subject": "Account balance update.",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "197cb2027ea7afb4",
+      "subject": "Account balance update.",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "197ca39959476b52",
+      "subject": "Secure two-step verification notification",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "197c97cbfd201e2f",
+      "subject": "Your RBC Royal Bank eStatement is ready",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "197c890460e88746",
+      "subject": "Coming Thursday, July 3rd... Detective Conan",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "197c871c41bcebcb",
+      "subject": "Your latest statement is now available",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "1978994562822a54",
+      "subject": "Security alert for 0wendygong0@gmail.com",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "19788b859cd6c3bb",
+      "subject": "Continue signing into Clipchamp with a Microsoft account",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "19785f60a6bbf8b4",
+      "subject": "Tiejing, redeem your 11,795 miles for your next trip",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "197850f5e2a0105a",
+      "subject": "Chantrell Creek Elementary Graduation and A Midsummer Night's Dream Weekly Update",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "19783c430f83dfba",
+      "subject": "WorkPEI Employer Account",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "197837c4aa1dbab5",
+      "subject": "PAC AGM and Elections - TODAY June 18 @ 7pm",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "19782532d7ed7ed1",
+      "subject": "File your annual return now / Déposez votre rapport annuel maintenant",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "197828ab2dc305ee",
+      "subject": "File your annual return now / Déposez votre rapport annuel maintenant",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "1977fce65da16324",
+      "subject": "Important information about your wireless account",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "1977e8df929986d9",
+      "subject": "You’re eligible, Tiejing: refer businesses to earn up to $1,000 per calendar year",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "1977b41c91156237",
+      "subject": "Digital Wallet BMO Credit Card Approval Notification",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "1977af4bd831e435",
+      "subject": "Our Summer Inventory Showcase Is Here",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "1977ac2a817eefc6",
+      "subject": "Annual General Meeting - Call for Nominations to the Board of Directors",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "1977ab4204da7929",
+      "subject": "Dry Grad 2026 meeting - TIME CHANGE",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "19779ed405876906",
+      "subject": "ADP ANSWERS NOW: YEAR END MID-YEAR BALANCING CHECKPOINT | ADP VOUS REPOND: FIN D'ANNÉE CONCILIATION - CONTRÔLE SEMESTRIE",
+      "reason": "ai_empty"
+    },
+    {
+      "id": "197790d01cdaaf42",
+      "subject": "We received your recent payment",
+      "reason": "ai_empty"
+    }
+  ]
+}
