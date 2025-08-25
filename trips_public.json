@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-25T21:50:07.145Z",
+  "generated_at": "2025-08-25T22:03:11.968Z",
   "timezone": "America/Vancouver",
   "items": [
     {
@@ -61,6 +61,128 @@
       "end": "2025-03-24T16:00:00.000Z",
       "vendor": "On-site parking, fee: 35.00 USD daily",
       "status": "confirmed"
+    },
+    {
+      "type": "hotel",
+      "start": "2025-07-23T07:00:00.000Z",
+      "vendor": "DOUBLETREE HOTEL SACRAMENTO",
+      "status": "confirmed",
+      "id": "sha256-673316a778e2c1712f9db1973c3c5edae9c156708e5a440541878f87fd9259f6"
+    },
+    {
+      "type": "campsite",
+      "start": "2025-07-23T07:00:00.000Z",
+      "vendor": "Canyon Campground",
+      "status": "confirmed",
+      "id": "sha256-22199fa814fcc36a37bb3fad57a2d7a4d00c29d0212d7d18b35aff01b80f731a"
+    },
+    {
+      "type": "hotel",
+      "start": "2025-07-23T23:00:00.000Z",
+      "end": "2025-07-24T18:00:00.000Z",
+      "vendor": "DoubleTree by Hilton Sacramento",
+      "address": "2001 Point West Way, Sacramento, CA 95815, US",
+      "confirmation": "******49",
+      "passengers": [
+        "T**"
+      ],
+      "amount": {
+        "value": 45000,
+        "currency": "Points"
+      },
+      "status": "confirmed",
+      "id": "sha256-6723171b194979cbe75a537ae18b4e705a0f19113fc665a9b2b4f5cbaa2f3cd2"
+    },
+    {
+      "type": "hotel",
+      "start": "2025-07-24T03:11:44.000Z",
+      "vendor": "DOUBLETREE HOTEL SACRAMENTO",
+      "status": "confirmed",
+      "id": "sha256-26db8033091b3a2aad8d383dab2d9d49c82fa28a8503de2a40ce6ff3436bc5fe"
+    },
+    {
+      "type": "hotel",
+      "start": "2025-07-24T07:00:00.000Z",
+      "vendor": "Hilton",
+      "status": "confirmed",
+      "id": "sha256-5b5ce34d28b0e3fcb172c96fef30effe8960ef1859402b6fc98e1bbd616716b6"
+    },
+    {
+      "type": "flight",
+      "start": "2025-08-26T07:00:00.000Z",
+      "carrier": "UA",
+      "number": "2064",
+      "origin": {
+        "code": "YVR",
+        "name": "Vancouver"
+      },
+      "destination": {
+        "code": "SFO",
+        "name": "San Francisco"
+      },
+      "vendor": "United Airlines",
+      "status": "confirmed",
+      "id": "sha256-f2f11e3bb4382ddb873b42171e74d997552cfc1a4a299a096dfa07aae2f71471"
+    },
+    {
+      "type": "flight",
+      "start": "2025-08-26T07:00:00.000Z",
+      "carrier": "UA",
+      "number": "877",
+      "origin": {
+        "code": "SFO",
+        "name": "San Francisco"
+      },
+      "destination": {
+        "code": "HKG",
+        "name": "Hong Kong"
+      },
+      "vendor": "United Airlines",
+      "status": "confirmed",
+      "id": "sha256-2c8e7efa36a507a6f6d24a5c956c3e15e15faf33ded65013121c7e386fa95d84"
+    },
+    {
+      "type": "flight",
+      "start": "2025-08-28T17:00:00.000Z",
+      "end": "2025-08-28T19:00:00.000Z",
+      "origin": {
+        "code": "YVR",
+        "name": "Vancouver International Airport"
+      },
+      "destination": {
+        "code": "YLW",
+        "name": "Kelowna International Airport"
+      },
+      "vendor": "Air Canada",
+      "confirmation": "****23",
+      "passengers": [
+        "J**",
+        "J**"
+      ],
+      "amount": {
+        "value": 500,
+        "currency": "CAD"
+      },
+      "status": "confirmed",
+      "id": "sha256-f6292cdb1cbc9979c5fe0a5236d0ddf9768fdcfba06e653c6d572c5b61015ae2"
+    },
+    {
+      "type": "hotel",
+      "start": "2025-08-28T22:00:00.000Z",
+      "end": "2025-08-31T18:00:00.000Z",
+      "vendor": "Manteo at Eldorado Resort",
+      "address": "3762 Lakeshore Rd, Kelowna, BC V1W 3L4, Canada",
+      "confirmation": "****89",
+      "passengers": [
+        "J**",
+        "J**"
+      ],
+      "amount": {
+        "value": 1200,
+        "currency": "CAD"
+      },
+      "status": "confirmed",
+      "id": "sha256-3e3c0e29b8d2533147b8c26304fd891a1f200f92056624326ce01f853f64bc44"
     }
   ]
 }
