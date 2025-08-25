@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-25T22:13:13.056Z",
+  "generated_at": "2025-08-25T22:21:56.891Z",
   "timezone": "America/Vancouver",
   "items": [
     {
@@ -140,6 +140,36 @@
       "vendor": "United Airlines",
       "status": "confirmed",
       "id": "sha256-2c8e7efa36a507a6f6d24a5c956c3e15e15faf33ded65013121c7e386fa95d84"
+    },
+    {
+      "type": "flight",
+      "start": "2025-08-26T07:00:00.000Z",
+      "carrier": "UA",
+      "number": "2064",
+      "origin": {
+        "code": "VAN"
+      },
+      "destination": {
+        "code": "SAN"
+      },
+      "vendor": "United Airlines",
+      "status": "confirmed",
+      "id": "sha256-573d5ffbc9debf7e9f646e2ec6838ba974afac60b787e5ba6e7899dc704fa922"
+    },
+    {
+      "type": "flight",
+      "start": "2025-08-26T07:00:00.000Z",
+      "carrier": "UA",
+      "number": "877",
+      "origin": {
+        "code": "SAN"
+      },
+      "destination": {
+        "code": "HON"
+      },
+      "vendor": "United Airlines",
+      "status": "confirmed",
+      "id": "sha256-8456d6c7cff583731bb2eaa0fcf663a3d6f3dacaed33fc73342becaf72c793a0"
     },
     {
       "type": "flight",
