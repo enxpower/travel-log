@@ -1,8 +1,8 @@
 {
-  "ts": "2025-08-25T00:01:04.321Z",
+  "ts": "2025-08-25T00:06:02.251Z",
   "cursor": {
     "startOffset": 500,
-    "threadIdx": 3,
+    "threadIdx": 48,
     "msgIdx": 0,
     "done": false
   },
