@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-29T05:53:38.832Z",
+  "ts": "2025-08-29T06:52:48.430Z",
   "cursor": {
     "startOffset": 0,
     "threadIdx": 0,
@@ -13,6 +13,6 @@
     "maxMsgsPerThread": 10
   },
   "extra": {
-    "phase": "inc-end"
+    "phase": "inc-start"
   }
 }
